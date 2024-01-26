@@ -1,0 +1,29 @@
+body {
+    /* background-color: blue; */
+    color: white;
+    background-color: black;
+}
+section{
+    margin: 1rem 3rem;
+    padding: 1rem 2rem;
+    border: 0.5rem solid white;
+    border-radius: 3rem;
+}
+
+nav {
+    color: rgb(114, 94, 39);
+    font-size: 18px;
+    text-decoration: none;
+    align-content: flex-start;
+    display: flex;
+    gap: 1rem;
+}
+.micky h1{
+    color: white;
+    align-items: center;
+    padding: 2rem;
+
+}
+.stack{
+    c
+}
