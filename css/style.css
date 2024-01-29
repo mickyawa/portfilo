@@ -1,28 +1,50 @@
 body {
     /* background-color: blue; */
     color: white;
-    background-color: black;
+    background-color: blueviolet;
+    margin: 5rem 10rem;
+    border: 1rem solid black;
+    border-radius: 5rem;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
 }
 section{
     margin: 1rem 3rem;
     padding: 1rem 2rem;
     border: 0.5rem solid white;
     border-radius: 3rem;
+    background-color: black;
+}
+.code{
+    margin: 1rem 3rem;
+    padding: 1rem 2rem;
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
 }
 
 nav {
-    color: rgb(114, 94, 39);
+    justify-content: end;
+    color: yellow(114, 39, 39, 0);
     font-size: 18px;
     text-decoration: none;
     align-content: flex-start;
     display: flex;
     gap: 1rem;
+
 }
 .micky h1{
     color: white;
     align-items: center;
     padding: 2rem;
 
+}
+p{
+    font-weight: 600;
+    font-size: 18px;
 }
 .stack{
     c
